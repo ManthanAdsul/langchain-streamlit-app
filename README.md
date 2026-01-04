@@ -7,6 +7,9 @@
 # 👶 Baby Name Generator  
 ### *LangChain · OpenAI · Streamlit*
 
+🚀 **Live Demo**  
+👉 https://langchain-app-app-2qcthfcvbkvr42yqmqt5wo.streamlit.app/
+
 An **AI-powered web application** that generates **meaningful Indian baby names** based on gender and contextual preferences.  
 This project demonstrates **real-world application of Large Language Models (LLMs)** using **LangChain Expression Language (LCEL)** with a clean **Streamlit-based UI** and secure **cloud deployment**.
 
@@ -163,6 +166,20 @@ Famous personality: Yashvardhan Ahuja (Actor)
 
 Viraj — Meaning: Illustrious
 Famous personality: Viraj Dayal (Musician)
+
+🧠 Skills Demonstrated
+
+LLM application development
+
+Prompt engineering
+
+LangChain LCEL pipelines
+
+Secure API key management
+
+Cloud deployment (Streamlit Community Cloud)
+
+Git & GitHub best practices
 
 🚀 Future Enhancements
 🔍 RAG-based name suggestions using curated datasets
