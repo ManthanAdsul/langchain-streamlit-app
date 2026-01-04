@@ -29,10 +29,11 @@ The application provides an intuitive **Streamlit UI** for real-time interaction
 
 ---
 
+
 ## 🖼️ User Interface Preview
 
-[Home Screen](./src/images/ui-home.png)
-[Generated Names](./src/images/ui-output.png)
+![Home Screen](images/ui-home.png)
+![Generated Names](images/ui-output.png)
 [gafafga](./src\images\wallpaper.jpg)
 
 🛠️ Tech Stack
@@ -61,6 +62,7 @@ Langchain-Final/
 ├── README.md
 ├── .gitignore
 └── .env.example
+
 ⚙️ Installation & Setup
 1️⃣ Clone the Repository
 bash
