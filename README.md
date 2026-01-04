@@ -31,8 +31,9 @@ The application provides an intuitive **Streamlit UI** for real-time interaction
 
 ## 🖼️ User Interface Preview
 
-![Home Screen](./src/images/ui-home.png)
-![Generated Names](./src/images/ui-output.png)
+[Home Screen](./src/images/ui-home.png)
+[Generated Names](./src/images/ui-output.png)
+
 
 🛠️ Tech Stack
 Python 3.10+
