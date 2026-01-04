@@ -31,10 +31,9 @@ The application provides an intuitive **Streamlit UI** for real-time interaction
 
 ## 🖼️ User Interface Preview
 
-> *(Add the project UI screenshot here)*  
-Example:
-```md
-![Baby Name Generator UI](./assets/ui.png)
+![Home Screen](images/ui-home.png)
+![Generated Names](images/ui-output.png)
+
 🛠️ Tech Stack
 Python 3.10+
 
