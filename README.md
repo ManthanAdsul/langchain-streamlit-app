@@ -219,4 +219,4 @@ Focused on AI, Automation, and Applied LLM Systems
 📧 Email: manthanadsul1@gmail.com
 
 📄 License
-This project is intended for educational and portfolio purposes.
+This project is intended for portfolio purposes.
