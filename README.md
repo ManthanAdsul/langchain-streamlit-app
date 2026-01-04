@@ -33,7 +33,7 @@ The application provides an intuitive **Streamlit UI** for real-time interaction
 
 [Home Screen](./src/images/ui-home.png)
 [Generated Names](./src/images/ui-output.png)
-
+[gafafga](./src\images\wallpaper.jpg)
 
 🛠️ Tech Stack
 Python 3.10+
