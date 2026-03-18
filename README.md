@@ -46,11 +46,12 @@ The application is **deployed on Streamlit Community Cloud**, following **produc
 
 > Screenshots of the deployed application
 
-```md
 ![Home Screen](images/ui-home.png)
 ![Generated Names](images/ui-output.png)
+'''
 
-🛠️ Tech Stack
+
+## 🛠️ Tech Stack
 Python 3.10+
 
 LangChain (LCEL architecture)
@@ -65,7 +66,7 @@ Git & GitHub
 
 Streamlit Community Cloud
 
-📂 Project Structure
+## 📂 Project Structure
 text
 Copy code
 langchain-streamlit-app/
@@ -81,7 +82,8 @@ langchain-streamlit-app/
     ├── __init__.py
     ├── main.py           # LangChain LCEL pipeline logic
     └── rag.py            # Supporting / future RAG extensions
-⚙️ Installation & Local Setup
+
+## ⚙️ Installation & Local Setup
 1️⃣ Clone the Repository
 bash
 Copy code
@@ -125,7 +127,8 @@ OPENAI_API_KEY = "sk-xxxxxxxxxxxxxxxxxxxx"
 bash
 Copy code
 streamlit run app.py
-🧠 How It Works (Architecture)
+
+## 🧠 How It Works (Architecture)
 text
 Copy code
 User Input (Streamlit UI)
@@ -144,7 +147,7 @@ Dynamic prompt construction based on user context
 
 Clean separation of UI and AI logic for scalability
 
-🧪 Example Input
+## 🧪 Example Input
 text
 Copy code
 Gender: Boy
@@ -167,7 +170,7 @@ Famous personality: Yashvardhan Ahuja (Actor)
 Viraj — Meaning: Illustrious
 Famous personality: Viraj Dayal (Musician)
 
-🧠 Skills Demonstrated
+## 🧠 Skills Demonstrated
 
 LLM application development
 
@@ -181,7 +184,7 @@ Cloud deployment (Streamlit Community Cloud)
 
 Git & GitHub best practices
 
-🚀 Future Enhancements
+## 🚀 Future Enhancements
 🔍 RAG-based name suggestions using curated datasets
 
 🌐 Multi-language support
@@ -192,7 +195,7 @@ Git & GitHub best practices
 
 🧩 Modular prompt templates
 
-🎯 Why This Project Matters (Resume Value)
+## 🎯 Why This Project Matters (Resume Value)
 This project demonstrates:
 
 Designed and implemented a production-ready LLM application
@@ -207,7 +210,7 @@ Deployed an AI application to the cloud
 
 Followed clean Git and project structuring practices
 
-👤 Author
+## 👤 Author
 Manthan Mahendra Adsul
 Final-year Engineering Student
 Focused on AI, Automation, and Applied LLM Systems
